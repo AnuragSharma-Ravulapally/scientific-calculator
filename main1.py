@@ -1,3 +1,4 @@
+#import math helps to get math libraries
 import math
 print("\nWELCOME :)\n")
 print("Type 'a' for addition")
